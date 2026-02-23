@@ -12,7 +12,7 @@ The program uses recursive backtracking and saves results into text files.
 ## **FEATURES**
 
 - **Recursive permutation generation**
-- **Digit combination generation (0–9)**
+- **Digit combination generation (0–6)**
 - **Input validation handling**
 - **File output support (.txt files)**
 - **Interactive console menu**
