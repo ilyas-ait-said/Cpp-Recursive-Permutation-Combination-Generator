@@ -3,7 +3,7 @@
 A simple C++ console application that generates:
 
 - Permutations of user-defined numbers
-- Digit combinations (0–9) of a chosen length
+- Digit combinations (0–6) of a chosen length
 
 The program uses recursive backtracking and saves results into text files.
 
